@@ -11,7 +11,7 @@
   ### 🤝 Connect with me :
 
   <p>
-  <a href="https://linkedin.com/in/aditya-kumar-020263237" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/3488/3488338.png" alt="Linkedin" height="30"></a>
-  <a href="https://x.com/Adityak_950" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="X" height="27"></a>
-  <a href="https://https://dev.to/aditya_k95" target="_blank"><img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" height="27"</a>
+  <a href="https://linkedin.com/in/aditya-kumar-020263237" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" alt="Linkedin" height="30"></a>
+  <a href="https://x.com/Adityak_950" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Twitter.svg" alt="X" height="30"></a>
+  <a href="https://dev.to/aditya_k95" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/DevTo-Dark.svg" height="30"</a>
   </p>
